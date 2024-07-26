@@ -3,7 +3,7 @@
 ### Download and install
 ```
 git clone git@github.com:ega1979/vite_template.git
-cd <project directory>
+cd vite_template/<project directory>
 npm ci
 ```
 
